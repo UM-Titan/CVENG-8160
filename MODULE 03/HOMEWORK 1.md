@@ -11,8 +11,6 @@ To complete this assignment:
 * The transforms to use should include: resizing of images, horizontal, vertical flip, tensor and normalization of data
 * 
 
-
-
 ## Rules
 * Feel free to use online resources. However, if you use any function or approach not discussed in class, demonstrate your understanding of the technique with at least 2 examples of how to use the function. You will lose points if this is not done
 * Use google collab only
