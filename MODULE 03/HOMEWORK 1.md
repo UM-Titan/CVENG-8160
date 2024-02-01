@@ -14,4 +14,8 @@ To complete this assignment:
 ## Rules
 * Feel free to use online resources. However, if you use any function or technique not discussed in class, demonstrate your understanding of the technique with at least 2 examples of how to use the function. You will lose points if this is not done
 * Use google collab only
-* While you may discuss this homework with your colleagues, your solution should not look too similar to others. You will be penalized for that. 
+* While you may discuss this homework with your colleagues, your solution should not look too similar to others. You will be penalized for that.
+
+
+## Due Date
+The homework is due on Thursday, February 8th at midnight. 
