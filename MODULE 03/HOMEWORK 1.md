@@ -2,7 +2,7 @@
 In this assignment you will be using python to create customized data loaders that will be able to accept and process training datasets in diverse formats. 
 
 ## Assignment Details
-You are provided with two datasets: localization and classification. 
+You are provided with two datasets: [localization](https://drive.google.com/file/d/1rMabUduN4_fFN9THlxG4_IJ1Mli1e657/view?usp=drive_link) and classification. 
 Localization: provides images and a csv file describing the location of objects in each image. 
 Classification: provides images collated in folders which describe the type of vehicle classes the images belong to. 
 To complete this assignment:
