@@ -3,7 +3,7 @@ In this assignment you will be using python to create customized data loaders th
 
 ## Assignment Details
 You are provided with two datasets: [localization](https://drive.google.com/file/d/1rMabUduN4_fFN9THlxG4_IJ1Mli1e657/view?usp=drive_link) and classification.<br> 
-Localization: provides images and a csv file describing the location of objects in each image. 
+Localization: provides images and a csv file describing the location of objects in each image. <br>
 Classification: provides images collated in folders which describe the type of vehicle classes the images belong to. 
 To complete this assignment:
 * Download and extract both datasets
